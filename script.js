@@ -1,4 +1,4 @@
-var apiKey = {key: '3d0f8bf9-eb63-4d42-8029-375f199b8257'}
+const apiKey = {key: 'Insira sua chave aqui'}
 
 fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=' +
 apiKey.key)
