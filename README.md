@@ -4,7 +4,7 @@ Projeto didático desenvolvido durante curso da DIO (Digital Innovation One).
 
 O projeto consiste em uma requisição de API de criptomoeda com JavaScript, exibindo alguns resultados em uma página web responsiva.
 
-## Para executar o projeto ::computer:
+## Para executar o projeto :computer:
 
 - clone este repositório 
 
